@@ -18,10 +18,7 @@ Eight Alfred themes in two families. Two accent colors (coral, violet), each in 
 
 ### Hazy (native vibrancy)
 
-| | Coral | Violet |
-|---|---|---|
-| **Light** | ![Light Hazy Coral](./screenshots/light-hazy-coral.png) | ![Light Hazy Violet](./screenshots/light-hazy-violet.png) |
-| **Dark** | ![Dark Hazy Coral](./screenshots/dark-hazy-coral.png) | ![Dark Hazy Violet](./screenshots/dark-hazy-violet.png) |
+Light and Dark, in Coral and Violet. No screenshots yet.
 
 ---
 
