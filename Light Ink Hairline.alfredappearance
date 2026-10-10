@@ -1,0 +1,65 @@
+{
+  "alfredtheme": {
+    "result": {
+      "text": {
+        "size": 13,
+        "font": "Manrope SemiBold",
+        "color": "#14110FFF",
+        "colorSelected": "#14110FFF"
+      },
+      "subtext": {
+        "size": 10,
+        "font": "Manrope",
+        "color": "#14110FB0",
+        "colorSelected": "#14110FD0"
+      },
+      "shortcut": {
+        "size": 11,
+        "font": "Manrope",
+        "color": "#14110F99",
+        "colorSelected": "#14110FD0"
+      },
+      "backgroundSelected": "#FF5A4DFF",
+      "roundness": 4,
+      "iconSize": 19,
+      "iconPaddingHorizontal": 6,
+      "paddingVertical": 2,
+      "textSpacing": 1
+    },
+    "search": {
+      "text": {
+        "size": 17,
+        "font": "Manrope SemiBold",
+        "color": "#14110FFF",
+        "colorSelected": "#14110FFF"
+      },
+      "background": "#14110F0A",
+      "backgroundSelected": "#FF5A4D66",
+      "roundness": 4,
+      "spacing": 0,
+      "paddingVertical": 4,
+      "paddingHorizontal": 8
+    },
+    "window": {
+      "color": "#FBFAF8F2",
+      "blur": 8,
+      "roundness": 6,
+      "paddingHorizontal": 8,
+      "paddingVertical": 8,
+      "width": 560,
+      "borderPadding": 8,
+      "borderColor": "#14110FF2"
+    },
+    "separator": {
+      "color": "#14110F55",
+      "thickness": 1
+    },
+    "scrollbar": {
+      "color": "#14110F55",
+      "thickness": 2
+    },
+    "credit": "Jarrett Truett",
+    "name": "Light Ink Hairline",
+    "widthSize": 1
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "alfredtheme": {
+    "result": {
+      "textSpacing": 3,
+      "subtext": {
+        "size": 11,
+        "font": "Manrope",
+        "color": "#D8F1F6B3",
+        "colorSelected": "#FFFFFFD9"
+      },
+      "shortcut": {
+        "size": 13,
+        "font": "Manrope Medium",
+        "color": "#B9A2FFE6",
+        "colorSelected": "#D4C5FFFF"
+      },
+      "backgroundSelected": "#FFFFFF29",
+      "text": {
+        "size": 16,
+        "font": "Manrope Medium",
+        "color": "#FFFFFFF2",
+        "colorSelected": "#FFFFFFFF"
+      },
+      "iconPaddingHorizontal": 10,
+      "paddingVertical": 6,
+      "iconSize": 30,
+      "roundness": 12
+    },
+    "search": {
+      "text": {
+        "size": 26,
+        "font": "Manrope Light",
+        "color": "#FFFFFFF2",
+        "colorSelected": "#FFFFFFFF"
+      },
+      "background": "#8F6BFF33",
+      "backgroundSelected": "#FFFFFF38",
+      "roundness": 14,
+      "spacing": 8,
+      "paddingVertical": 8,
+      "paddingHorizontal": 16
+    },
+    "window": {
+      "color": "#04303BB8",
+      "blur": 30,
+      "roundness": 22,
+      "paddingHorizontal": 16,
+      "paddingVertical": 16,
+      "width": 680,
+      "borderPadding": 0,
+      "borderColor": "#9B7BFF66"
+    },
+    "separator": {
+      "color": "#B9A2FF40",
+      "thickness": 1
+    },
+    "scrollbar": {
+      "color": "#FFFFFF40",
+      "thickness": 4
+    },
+    "credit": "Jarrett Truett",
+    "name": "Dark Tinted Glass",
+    "widthSize": 3
+  }
+}
