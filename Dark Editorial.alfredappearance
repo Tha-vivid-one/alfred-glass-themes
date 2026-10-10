@@ -1,0 +1,65 @@
+{
+  "alfredtheme": {
+    "result": {
+      "textSpacing": 2,
+      "subtext": {
+        "size": 12,
+        "font": "DM Sans",
+        "color": "#F5F1E899",
+        "colorSelected": "#F5F1E8BF"
+      },
+      "shortcut": {
+        "size": 13,
+        "font": "DM Sans Medium",
+        "color": "#FF7A5CE6",
+        "colorSelected": "#FF7A5CFF"
+      },
+      "backgroundSelected": "#FF7A5C26",
+      "text": {
+        "size": 23,
+        "font": "DM Sans Light",
+        "color": "#F5F1E8E6",
+        "colorSelected": "#F5F1E8FF"
+      },
+      "iconPaddingHorizontal": 12,
+      "paddingVertical": 7,
+      "iconSize": 28,
+      "roundness": 4
+    },
+    "search": {
+      "text": {
+        "size": 46,
+        "font": "DM Sans ExtraLight",
+        "color": "#F5F1E8FF",
+        "colorSelected": "#F5F1E8FF"
+      },
+      "background": "#00000000",
+      "backgroundSelected": "#FF7A5C40",
+      "roundness": 0,
+      "spacing": 6,
+      "paddingVertical": 8,
+      "paddingHorizontal": 6
+    },
+    "window": {
+      "color": "#0E0D0CEB",
+      "blur": 10,
+      "roundness": 6,
+      "paddingHorizontal": 30,
+      "paddingVertical": 22,
+      "width": 720,
+      "borderPadding": 0,
+      "borderColor": "#F5F1E81A"
+    },
+    "separator": {
+      "color": "#F5F1E833",
+      "thickness": 1
+    },
+    "scrollbar": {
+      "color": "#F5F1E833",
+      "thickness": 2
+    },
+    "credit": "Jarrett Truett",
+    "name": "Dark Editorial",
+    "widthSize": 3
+  }
+}

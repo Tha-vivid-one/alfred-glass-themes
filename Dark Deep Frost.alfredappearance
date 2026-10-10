@@ -1,0 +1,62 @@
+{
+  "alfredtheme": {
+    "result": {
+      "textSpacing": 5,
+      "subtext": {
+        "size": 12,
+        "font": "SF Pro Text",
+        "color": "#FFFFFFA8",
+        "colorSelected": "#FFFFFFD0"
+      },
+      "shortcut": {
+        "size": 14,
+        "font": "SF Pro Text",
+        "color": "#FFFFFF8C",
+        "colorSelected": "#FFFFFFE6"
+      },
+      "backgroundSelected": "#FFFFFF24",
+      "text": {
+        "size": 18,
+        "font": "SF Pro Display",
+        "color": "#FFFFFFFF",
+        "colorSelected": "#FFFFFFFF"
+      },
+      "iconPaddingHorizontal": 14,
+      "paddingVertical": 13,
+      "iconSize": 40,
+      "roundness": 16
+    },
+    "search": {
+      "text": {
+        "size": 38,
+        "font": "SF Pro Display Light",
+        "color": "#FFFFFFFF"
+      },
+      "background": "#FFFFFF12",
+      "roundness": 18,
+      "paddingVertical": 10,
+      "paddingHorizontal": 20
+    },
+    "window": {
+      "color": "#07070ADA",
+      "blur": 30,
+      "roundness": 24,
+      "paddingHorizontal": 22,
+      "paddingVertical": 22,
+      "width": 720,
+      "borderPadding": 0,
+      "borderColor": "#FFFFFF26"
+    },
+    "separator": {
+      "color": "#FFFFFF0F",
+      "thickness": 1
+    },
+    "scrollbar": {
+      "color": "#FFFFFF40",
+      "thickness": 3
+    },
+    "credit": "Jarrett Truett",
+    "name": "Dark Deep Frost",
+    "widthSize": 4
+  }
+}

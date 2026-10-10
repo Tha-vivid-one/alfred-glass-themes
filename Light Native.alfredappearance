@@ -1,0 +1,66 @@
+{
+  "alfredtheme": {
+    "result": {
+      "text": {
+        "size": 15,
+        "font": "SF Pro Text",
+        "color": "#1D1D1FFF",
+        "colorSelected": "#1D1D1FFF"
+      },
+      "subtext": {
+        "size": 11,
+        "font": "SF Pro Text",
+        "color": "#3C3C43C8",
+        "colorSelected": "#3C3C43D8"
+      },
+      "shortcut": {
+        "size": 13,
+        "font": "SF Pro Text",
+        "color": "#007AFFFF",
+        "colorSelected": "#007AFFFF"
+      },
+      "backgroundSelected": "#00000017",
+      "roundness": 8,
+      "iconSize": 34,
+      "iconPaddingHorizontal": 10,
+      "paddingVertical": 6,
+      "textSpacing": 2
+    },
+    "search": {
+      "text": {
+        "size": 24,
+        "font": "SF Pro Display Light",
+        "color": "#1D1D1FFF",
+        "colorSelected": "#1D1D1FFF"
+      },
+      "background": "#00000000",
+      "backgroundSelected": "#00000026",
+      "roundness": 0,
+      "spacing": 0,
+      "paddingVertical": 6,
+      "paddingHorizontal": 8
+    },
+    "window": {
+      "color": "#F8F8F8A0",
+      "blur": 0,
+      "roundness": 14,
+      "paddingHorizontal": 10,
+      "paddingVertical": 10,
+      "width": 680,
+      "borderPadding": 0,
+      "borderColor": "#0000001A"
+    },
+    "separator": {
+      "color": "#00000014",
+      "thickness": 1
+    },
+    "scrollbar": {
+      "color": "#00000030",
+      "thickness": 3
+    },
+    "credit": "Jarrett Truett",
+    "visualEffectMode": 1,
+    "name": "Light Native",
+    "widthSize": 3
+  }
+}
